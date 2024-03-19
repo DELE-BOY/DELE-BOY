@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DELE-BOY
-- 👀 I’m interested in project management and cybersecurity 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ayodele
+- 👀 I’m interested in project management and .Net 
+- 🌱 I’m currently work as .Net developer 
+- 💞️ I’m looking to collaborate on Saas Solutions
 - 📫 How to reach me ...
 
 <!---
