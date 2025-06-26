@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ayodele
+- 👋 Hi, I’m Dele
 - 👀 I’m interested in project management and .Net 
-- 🌱 I’m currently work as .Net developer 
+- 🌱 I’m am a C# developer 
 - 💞️ I’m looking to collaborate on Saas Solutions
-- 📫 How to reach me ...
+
 
 <!---
 DELE-BOY/DELE-BOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
