@@ -20,7 +20,7 @@ public class Profile
 ```
 
 ## 💼 Portfolio
-🎯 **[Check out my Portfolio](portfolio-link-here)** *(in progress)* - A showcase of my C# and .NET expertise with interactive demos!
+🎯 **[Check out my Portfolio](https://github.com/DELE-BOY/portfolio-backend)** *(in progress)* - A showcase of my C# and .NET expertise with interactive demos!
 
 ---
 
