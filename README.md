@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 ```csharp
-public class DeleProfile
+public class Profile
 {
     public string Name => "Dele";
     public string[] Interests => { "Project Management", ".NET Development", "SaaS Solutions" };
