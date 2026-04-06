@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Dele
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;Backend+Architecture+Enthusiast;SaaS+Solutions+Builder;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;Backend+Architecture+Enthusiast;SaaS+Solutions+Builder;" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,7 +15,7 @@ public class Profile
     public string[] Interests => { "Project Management", ".NET Development", "SaaS Solutions" };
     public string CurrentFocus => "Building scalable backend systems with C# & .NET Core";
     public string[] LookingFor => { "SaaS Collaboration Opportunities", "Innovative Projects" };
-    public bool AlwaysLearning => true;
+    //public bool AlwaysLearning => true;
 }
 ```
 
