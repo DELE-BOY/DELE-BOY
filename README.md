@@ -15,7 +15,6 @@ public class Profile
     public string[] Interests => { "Project Management", ".NET Development", "SaaS Solutions" };
     public string CurrentFocus => "Building scalable backend systems with C# & .NET Core";
     public string[] LookingFor => { "SaaS Collaboration Opportunities", "Innovative Projects" };
-    //public bool AlwaysLearning => true;
 }
 ```
 
