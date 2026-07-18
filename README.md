@@ -79,7 +79,6 @@ public class Profile
 </div>
 
 ---
----
 
 ## 🎯 What I'm Up To
 
