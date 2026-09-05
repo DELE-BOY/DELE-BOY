@@ -112,14 +112,3 @@ Let's connect and create something amazing together!
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DELE-BOY&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-</div>
-
-<!---
-DELE-BOY/DELE-BOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
