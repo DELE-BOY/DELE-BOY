@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Dele</h1>
+<h1 align="center">Hi there!, I'm Dele</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Developer;Backend+Architecture+Enthusiast;SaaS+Solutions+Builder;" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```csharp
 public class Profile
@@ -18,12 +18,12 @@ public class Profile
 }
 ```
 
-## 💼 Portfolio
-🎯 **[Check out my Portfolio](https://github.com/DELE-BOY/portfolio-backend)** *(in progress)* - A showcase of my C# and .NET expertise with interactive demos!
+## Portfolio
+ **[Check out my Portfolio](https://github.com/DELE-BOY/portfolio-backend)** *(in progress)* - A showcase of my C# and .NET expertise with interactive demos!
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
@@ -80,23 +80,23 @@ public class Profile
 
 ---
 
-## 🎯 What I'm Up To
+##  What I'm Up To
 
-- 🔭 **Currently Working On:** Building a full-stack portfolio with C# .NET Core backend and React frontend
-- 🌱 **Learning:** Advanced React patterns, microservices architecture, and cloud-native development
-- 🎮 **Fun Fact:** I love strategy games like Chess and Tetris - they keep my problem-solving skills sharp!
-- 💡 **Exploring:** Clean Architecture, CQRS patterns, and modern DevOps practices
+- **Currently Working On:** Building a full-stack portfolio with C# .NET Core backend and React frontend
+- **Learning:** Advanced React patterns, microservices architecture, and cloud-native development
+- **Fun Fact:** I love strategy games like Chess and Tetris - they keep my problem-solving skills sharp!
+- **Exploring:** Clean Architecture, CQRS patterns, and modern DevOps practices
 
 ---
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
 I'm passionate about building **SaaS solutions** and **web applications** that solve real problems. If you're working on:
 
-- 🌐 **Web Applications** with ASP.NET
-- 🔗 **RESTful APIs** and Web Services
-- ☁️ **Cloud-hosted Solutions** 
-- 📊 **Project Management Tools**
+- **Web Applications** with ASP.NET
+- **RESTful APIs** and Web Services
+- **Cloud-hosted Solutions** 
+- **Project Management Tools**
 
 Let's connect and create something amazing together!
 
