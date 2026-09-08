@@ -12,9 +12,26 @@
 public class Profile
 {
     public string Name => "Dele";
-    public string[] Interests => { "Project Management", ".NET Development", "SaaS Solutions" };
-    public string CurrentFocus => "Building scalable backend systems with C# & .NET Core";
-    public string[] LookingFor => { "SaaS Collaboration Opportunities", "Innovative Projects" };
+    
+    public string Role => "Backend-Focused Software Engineer";
+    
+    public string Experience => "4+ years building production systems in C#, ASP.NET & ASP.NET Core";
+    
+    public string[] Specialties => 
+    { 
+        "Clean Architecture",
+        "CQRS with MediatR",
+        "Hangfire",
+        "RESTful APIs",
+        "SQL Server",
+        "PostgreSQL"
+    };
+    
+    public string Collaboration => 
+        "Full-stack capable with an agile project management background";
+    
+    public string Philosophy => 
+        "I don't just build software. I understand how software behaves in production.";
 }
 ```
 
